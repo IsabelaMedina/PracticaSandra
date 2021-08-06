@@ -1,0 +1,41 @@
+
+
+h1{
+color: #BA135D;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+}
+
+a{
+color: #96BAFF;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+display: block;
+}
+
+label{
+color: #D79771;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+display: block;
+text-align: center;
+}
+
+input{
+color: #FFC93C;
+text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+display: block;
+padding: 10px;
+border: 1px solid black;
+margin: auto;
+}
+
+img{
+    height: 40%;
+    width: 40%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
